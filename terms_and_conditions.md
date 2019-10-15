@@ -1,6 +1,6 @@
 ## Terms & Conditions
 
-"Classic Talent Calculator" is a fan-made, unofficial mobile app for the World of Warcraft© game. The mobile application author, David Barton is not the copyright owner of graphical and text materials originated from World of Warcraft© game, a title owned by Blizzard Entertainment, Inc.
+"Classic Talent Calculator" is a fan-made, unofficial mobile app for the World of Warcraft© game. The mobile application author, David Barton is not the copyright owner of graphical and text materials originated from the World of Warcraft© game, a title owned by Blizzard Entertainment, Inc.
 
 https://www.blizzard.com/en-us/legal
 
