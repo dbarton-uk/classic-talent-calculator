@@ -4,7 +4,7 @@
 
 https://www.blizzard.com/en-us/legal
 
-**Battle.net©**
+#Battle.net
 ©1996 - 2014 Blizzard Entertainment, Inc. All rights reserved. Battle.net and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
 
 **Blizzard Entertainment©**
