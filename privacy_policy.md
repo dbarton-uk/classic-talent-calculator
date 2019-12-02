@@ -1,3 +1,4 @@
+# Classic Talent Calculator
 ## Privacy Policy
 
 David Barton built the Classic Talent Calculator app as a Commercial app. This SERVICE is provided by David Barton and is intended for use as is.
@@ -59,4 +60,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at dbarton.uk@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at ctc@dbarton.uk.
