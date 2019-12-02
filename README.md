@@ -1,6 +1,6 @@
 # Classic Talent Calculator
 
-![Logo]
+![Logo](logo.png)
 
 
 Thank you for downloading and use
