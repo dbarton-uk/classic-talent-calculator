@@ -1,6 +1,5 @@
 # Classic Talent Calculator
-## version 1.9.2
-#### Copyright 2019 David Barton. All rights reserved.
+### version 1.9.2, copyright 2019 [David Barton](mailto:ctc@dbarton.uk). All rights reserved.
 
 **Logo and store icons created using [Icons8](https://icons8.com)**\
 **WoW icons are based on remasterings by [teebling@barrens.chat](https://barrens.chat)**
